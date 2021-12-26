@@ -1,12 +1,13 @@
 # 👋 Hi, I’m @maddyiscoding!
 
 ## About me!
---- 
+ 
 - 👀 I’m interested in
     - gaming
     - rpgs
     - more gaming
     - rust
+---
 
 ## Stuff I'm doing
 - 🌱 I’m currently learning
@@ -17,12 +18,17 @@
     - not much
     - working on a rpg
     - as always, gaming
+---
 
 ## Contact me!
----
+
 - 📫 How to reach me
     - reach me through my email
+---
 
+![cyberpunk image, original source unknown](https://github.com/maddyiscoding/maddyiscoding/blob/main/cyberpunk.gif?raw=true)
+
+Picrew credits go to @berri___
 <!---
 maddyiscoding/maddyiscoding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
